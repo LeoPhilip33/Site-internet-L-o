@@ -1,0 +1,31 @@
+body{
+    margin:0;
+}
+.gauche {
+    background-color: #424953;
+    height: 100%;
+    width: 15vw;
+    float:left;
+}
+
+.alignement-gauche {
+    color:white;
+    margin-left:20px;
+    margin-right: 0px;
+}
+
+.droit {
+    padding-left: 16vw;
+    padding-right: 20vw;
+
+}
+
+p{
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 15px;
+
+}
